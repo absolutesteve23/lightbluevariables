@@ -1,5 +1,5 @@
 (function () {
-    const plugin = BF2042Portal.Plugins.getPlugin("red-variables");
+    const plugin = BF2042Portal.Plugins.getPlugin("light-bluevariables");
 
     plugin.initializeWorkspace = function () {
         const theme = _Blockly.getMainWorkspace().getTheme();
